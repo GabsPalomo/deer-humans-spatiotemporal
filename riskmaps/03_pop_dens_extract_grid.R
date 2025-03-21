@@ -63,7 +63,7 @@ options(scipen = 999)
 # http://api.census.gov/data/key_signup.html 
 
 # API Key 
-census_api_key("656321a3edf01184e1eef7223c905427395d198f")
+census_api_key("")
 
 # List of cities 
 states <- c("MA", "NH", "RI", "IL", "IA", "IN", "MS", 
